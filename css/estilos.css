@@ -1,0 +1,42 @@
+body {
+    background: cyan;
+  }
+  
+  
+  .site-title {
+    font-family: Aharoni;
+    text-align: center;
+    color: black;
+  }
+  
+  .site-subtitle {
+  text-align: center;
+    color: Grey;
+    font-family: Algerian;
+  }
+  
+  #menu {
+  background-color: black;
+  }
+  
+  .origem {
+    
+  }
+  
+  .menu {
+    
+    background-color: black;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-between
+  }
